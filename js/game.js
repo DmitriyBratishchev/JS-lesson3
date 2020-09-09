@@ -1,6 +1,6 @@
 "use strict";
 
-function twoNumbers() {
+function guessNum() {
   let result = true;
 
   while (result) {
